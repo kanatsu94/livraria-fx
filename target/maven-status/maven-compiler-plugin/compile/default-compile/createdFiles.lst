@@ -1,0 +1,8 @@
+io\Exportador.class
+io\TesteSaida.class
+application\Main.class
+application\Main$1.class
+threads\ExportadorDeCSV.class
+dao\ProdutoDAO.class
+threads\TestandoThreads.class
+factory\ConnectionFactory.class
